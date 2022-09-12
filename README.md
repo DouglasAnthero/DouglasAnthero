@@ -1,4 +1,4 @@
-<div style="background-color: white; padding:10px">
+<div style="background-color: #FFFFFF; padding:10px">
 <p>- 👋 Hi, I’m @DouglasAnthero <br>
 - I'm getting ready to become a full stack developer </p><br>
 <p>- 🌱 I’m currently learning:</p>  
@@ -15,7 +15,7 @@
 <img width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
-
+<br>
 <p>- 💞️ Tools and Technologies:</p>  
 <div>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
