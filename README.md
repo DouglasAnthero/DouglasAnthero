@@ -1,4 +1,5 @@
-<p>- 👋 Hi, I’m @DouglasAnthero <br>
+<div style="background-color: white; padding:10px">
+p>- 👋 Hi, I’m @DouglasAnthero <br>
 - I'm getting ready to become a full stack developer </p><br>
 <p>- 🌱 I’m currently learning:</p>  
 <div>
@@ -32,6 +33,7 @@
     <a href="https://www.linkedin.com/in/douglas-anthero-943b1323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     <a href="https://instagram.com/douglasanthero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:douglasdemello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 </div>
 <!---
 DouglasAnthero/DouglasAnthero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
