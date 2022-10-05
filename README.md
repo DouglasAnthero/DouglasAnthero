@@ -1,5 +1,5 @@
 <div style="background-color: #FFFFFF; padding:10px">
-<p>- 👋 Hi, I’m @DouglasAnthero <br>
+<h2>- 👋 Hi, I’m Douglas Anthero </h2><br>
 - I'm getting ready to become a full stack developer </p><br>
 <p>- 🌱 I’m currently learning:</p>  
 <div>
