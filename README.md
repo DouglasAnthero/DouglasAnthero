@@ -24,8 +24,8 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div><div>
 <a href="https://github.com/DouglasAnthero">
-<img width="450px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAnthero&layout=compact&langs_count=7&theme=dracula"/>
-<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAnthero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAnthero&layout=compact&langs_count=7&theme=dark"/>
+<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAnthero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
