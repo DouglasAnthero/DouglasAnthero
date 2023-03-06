@@ -1,19 +1,15 @@
 <div style="background-color: #FFFFFF; padding:10px">
-<h2>- 👋 Hi, I’m Douglas Anthero </h2><br>
-- I'm getting ready to become a full stack developer </p><br>
-<p>- 🌱 I’m currently learning:</p>  
+<h2>- 👋 Olá, me chamo Douglas</h2><br>
+- Sou formado em Engenharia Civil e em 2022 iniciei minha transição de carreira para a área de Desenvolvimento FullStack. Atualmente também iniciei o curso superior em Engenharia de Software</p><br>
+<p>- 🌱Hard Skills:</p>  
 <div>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    
 </div>
 <br>
 <p>- 💞️ Tools and Technologies:</p>  
