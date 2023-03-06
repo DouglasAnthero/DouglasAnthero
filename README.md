@@ -15,16 +15,17 @@
 </div>
 <br>
 <div>
+    <a href="https://www.linkedin.com/in/douglas-anthero-943b1323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://instagram.com/douglasanthero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:douglasdemello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<div>
 <a href="https://github.com/DouglasAnthero">
 <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAnthero&layout=compact&langs_count=7&theme=dark"/>
 <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasAnthero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-    <a href="https://www.linkedin.com/in/douglas-anthero-943b1323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <a href="https://instagram.com/douglasanthero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:douglasdemello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 </div>
 <!---
 DouglasAnthero/DouglasAnthero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
